@@ -1,1 +1,1 @@
-echo # Egyptian-Summer-2017
+# Egyptian-Summer-2017
