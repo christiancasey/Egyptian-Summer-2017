@@ -1,7 +1,7 @@
 # Introduction to Egyptian Hieroglyphs
 
 ## Description
-All materials involving the preparation and presentation of this year's course are provided for use by other students and teachers. Feel free to [contact me](mailto:christian_casey@brown.edu) with issues or questions.
+All materials involved in the preparation and presentation of this year's course are provided for use by other students and teachers. Feel free to [contact me](mailto:christian_casey@brown.edu) with issues or questions.
 
 ## Copyright
 Excluding book excerpts, all material on this site is licensed under a
